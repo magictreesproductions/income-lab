@@ -1,0 +1,14 @@
+{
+  "swarm": [
+    {
+      "slug": "minimalist-icons",
+      "railway": "https://minimalist-icons-production.up.railway.app",
+      "gumroad": "https://gum.co/minimalist-icons"
+    },
+    {
+      "slug": "demo-250791",
+      "railway": "https://demo-250791-production.up.railway.app",
+      "gumroad": "https://gum.co/demo-250791"
+    }
+  ]
+}
