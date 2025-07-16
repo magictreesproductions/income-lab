@@ -2,7 +2,7 @@
 """
 Micro-site: serves a QR code that links to a Gumroad product.
 """
-from flask import Flask, send_file, request, jsonify
+from flask import Flask, send_file
 import qrcode, io, os
 
 app = Flask(__name__)
